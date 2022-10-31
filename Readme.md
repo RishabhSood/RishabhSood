@@ -11,11 +11,17 @@
   </a>
 </h1>
 
-<hr>
+- 🔭 Currently working on **Hostel Room Allocation System for TIET**
 
-- 🔭 I’m currently working on **Hostel Room Allocation System for TIET**
+- 🌱 Currently learning **System Design, Microservices in Golang.**
+## Work Experience
 
-- 🌱 I’m currently learning **System Design, Microservices in Golang.**
+[<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://design.gs.com/downloads/Goldman_Sachs_Blue_Box.png"/>](https://www.goldmansachs.com/)
+
+**Summer Analyst** \
+[**Goldman Sachs**](https://www.goldmansachs.com/) • Summer Intern \
+Languages & Technologies: `Golang`, `Kubernetes`, `Prometheus`, `Grafana`, `Fluentbit`, `BigQuery`, `Docker`, `Gitlab CI-CD`, `SRE` \
+<br/>
 
 ## My Skill Set  
 <table><tr>
@@ -94,14 +100,16 @@
 </div>
 
 </td></tr></table>  
-<hr>
+
 <h2> Contribution Graph </h2>
 <img alt="Rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=RishabhSood&bg_color=000&color=00ADFE&line=00ADFE&point=fff&hide_border=true" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhsood&theme=tokyonight&show_icons=true&locale=en" alt="rishabhsood" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhsood&theme=tokyonight" alt="rishabhsood" /></p>
+<h2> Github Stats </h2>
+<div align="center">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhsood&theme=tokyonight&show_icons=true&locale=en" alt="rishabhsood" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhsood&theme=tokyonight" alt="rishabhsood" /></p>
+</div>
 
-<br>
 <hr>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
