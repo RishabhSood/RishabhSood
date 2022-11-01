@@ -125,3 +125,8 @@ Languages & Technologies: `Golang`, `Kubernetes`, `Prometheus`, `Grafana`, `Flue
        </a>
     </div>
 </p>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=RishabhSood&label=Visitors">
+  <img src="https://img.shields.io/github/followers/RishabhSood.svg?style=social&label=Follow&maxAge=2592000">
+</div>
