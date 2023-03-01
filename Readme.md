@@ -9,10 +9,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE+Intern+@Apple;Upcoming+Analyst+@Goldman+Sachs;Web+Developer;Deep+Learning+Enthusiast;B.E.+Computer+Science+@Thapar&center=true&size=20">
 </h1>
 
-- 🔭 Currently working on **Hostel Room Allocation System for TIET**
+- 🔭 Currently working on **Internship Project @Apple**
 
-- 🌱 Currently learning **System Design, Microservices in Golang.**
+- 🌱 Currently learning **AWS: EKS & System Architecture, System Design, Microservices in Golang.**
 ## Work Experience
+
+[<img align="left" height="94px" width="94px" alt="Apple" src="https://i.pinimg.com/474x/b0/d2/6e/b0d26e8122dffa8a51081f7f814581d7.jpg"/>](https://www.apple.com/)
+
+**SDE Intern** \
+[**Apple**](https://www.apple.com/) • 6 Month Winter Intern \
+Languages & Technologies: `Python`, `Generative Models`, `API Scripting`, `Load Testing`, `Document Search` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://design.gs.com/downloads/Goldman_Sachs_Blue_Box.png"/>](https://www.goldmansachs.com/)
 
@@ -100,7 +107,6 @@ Languages & Technologies: `Golang`, `Kubernetes`, `Prometheus`, `Grafana`, `Flue
 </td></tr></table>  
 
 <h2> Contribution Graph </h2>
-<img alt="Rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=RishabhSood&bg_color=000&color=00ADFE&line=00ADFE&point=fff&hide_border=true" />
 
 <h2> Github Stats </h2>
 <div align="center">
