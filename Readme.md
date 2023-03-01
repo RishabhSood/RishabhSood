@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rishabh Sood</h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Upcoming+SDE+Intern+@Apple;Upcoming+Analyst+@Goldman+Sachs;Web+Developer;Deep+Learning+Enthusiast;B.E.+Computer+Science+@Thapar&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE+Intern+@Apple;Upcoming+Analyst+@Goldman+Sachs;Web+Developer;Deep+Learning+Enthusiast;B.E.+Computer+Science+@Thapar&center=true&size=20">
 </h1>
 
 - 🔭 Currently working on **Hostel Room Allocation System for TIET**
