@@ -18,7 +18,7 @@
 
 **SDE Intern** \
 [**Apple**](https://www.apple.com/) • 6 Month Winter Intern \
-Languages & Technologies: `Python`, `Generative Models`, `API Scripting`, `Load Testing`, `Document Search` \
+Languages & Technologies: `Python`, `Generative Models`, `API Scripting`, `Load Testing`, `Document Search`, `Kubernetes`, `Helm` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://design.gs.com/downloads/Goldman_Sachs_Blue_Box.png"/>](https://www.goldmansachs.com/)
