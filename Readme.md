@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on **Internship Project @Apple**
 
-- 🌱 Currently learning **AWS: EKS & System Architecture, System Design, Microservices in Golang.**
+- 🌱 Currently learning **Kubernetes, Spring Framework, System Design.**
 ## Work Experience
 
 [<img align="left" height="94px" width="94px" alt="Apple" src="https://i.pinimg.com/474x/b0/d2/6e/b0d26e8122dffa8a51081f7f814581d7.jpg"/>](https://www.apple.com/)
