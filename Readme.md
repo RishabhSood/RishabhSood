@@ -9,10 +9,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Analyst+@Goldman+Sachs;Web+Developer;Deep+Learning+Enthusiast;B.E.+Computer+Science+@Thapar&center=true&size=20">
 </h1>
 
-- 🔭 Currently working on **Internship Project @Apple**
+- 🔭 Currently working on **Enhancing Goldman Sachs internal App Store**
 
 - 🌱 Currently learning **Kubernetes, Spring Framework, System Design.**
 ## Work Experience
+[<img align="left" height="94px" width="94px" alt="Apple" src="https://i.pinimg.com/474x/b0/d2/6e/b0d26e8122dffa8a51081f7f814581d7.jpg"/>](https://www.apple.com/)
+
+**SDE-1** \
+[**Apple**](https://www.apple.com/) • SDE-1 \
+Upcoming 2024 \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://design.gs.com/downloads/Goldman_Sachs_Blue_Box.png"/>](https://www.goldmansachs.com/)
+
+**Analyst** \
+[**Goldman Sachs**](https://www.goldmansachs.com/) • SDE-1 \
+Languages & Technologies: `SpringBoot`, `Java`, `Kubernetes`, `Docker`, `Fluentbit`, `Docker`, `Gitlab CI-CD`, `ReactJS`, `Cucumber`, `Cypress` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Apple" src="https://i.pinimg.com/474x/b0/d2/6e/b0d26e8122dffa8a51081f7f814581d7.jpg"/>](https://www.apple.com/)
 
@@ -39,6 +52,7 @@ Languages & Technologies: `Golang`, `Kubernetes`, `Prometheus`, `Grafana`, `Flue
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Go" height="50" /></a>  
 </div>  
 
 
@@ -77,6 +91,7 @@ Languages & Technologies: `Golang`, `Kubernetes`, `Prometheus`, `Grafana`, `Flue
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Nginx" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
