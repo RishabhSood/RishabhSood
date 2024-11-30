@@ -3,24 +3,23 @@
   <br>
 </div>
 
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rishabh Sood</h1>
+<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Rishabh Sood</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE+@Apple;Machine+Learning+Engineer;Web+Developer;B.E.+Computer+Science+@Thapar&center=true&size=20">
 </h1>
 
-- 🔭 Currently working on **Enhancing Goldman Sachs internal App Store**
-
-- 🌱 Currently learning **Kubernetes, Spring Framework, System Design.**
+- 🔭 Currently working on *Apple Developer Search**
+- 🌱 Currently learning **Knowledge Graphs, LLM Fine Tuning & Generative Answering**
 ## Work Experience
 [<img align="left" height="94px" width="94px" alt="Apple" src="https://i.pinimg.com/474x/b0/d2/6e/b0d26e8122dffa8a51081f7f814581d7.jpg"/>](https://www.apple.com/)
 
 **SDE-1** \
 [**Apple**](https://www.apple.com/) • SDE-1 \
-Upcoming 2024 \
+Languages & Technologies: `Python`, `GRPC`, `LLM (Train / FineTune / Deploy)`, `Knowledge Graphs`, `FastAPI`, `Multilingual Search`, `Apache Solr`, `OpenSearch`, `Docker`, `Kubernetes`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://design.gs.com/downloads/Goldman_Sachs_Blue_Box.png"/>](https://www.goldmansachs.com/)
+[<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/1024px-Goldman_Sachs.svg.png"/>](https://www.goldmansachs.com/)
 
 **Analyst** \
 [**Goldman Sachs**](https://www.goldmansachs.com/) • SDE-1 \
@@ -34,7 +33,7 @@ Languages & Technologies: `SpringBoot`, `Java`, `Kubernetes`, `Docker`, `Fluentb
 Languages & Technologies: `Python`, `Generative Models`, `API Scripting`, `Load Testing`, `Document Search`, `Kubernetes`, `Helm` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://design.gs.com/downloads/Goldman_Sachs_Blue_Box.png"/>](https://www.goldmansachs.com/)
+[<img align="left" height="94px" width="94px" alt="Goldman Sachs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/1024px-Goldman_Sachs.svg.png"/>](https://www.goldmansachs.com/)
 
 **Summer Analyst** \
 [**Goldman Sachs**](https://www.goldmansachs.com/) • Summer Intern \
